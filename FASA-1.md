@@ -13,4 +13,13 @@ Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pe
 1. Merekod maklumat pelanggan yang mendaftar dalam sistem.
 2. Merekod maklumat janji temu pelanggan yang merangkumi tarikh, masa dan jenis sesi terapi.
 3. Memaparkan senarai janji temu supaya pelanggan dapat menyemak maklumat sesi yang telah ditempah.
-4. Membolehkan rekod janji temu ditambah, dikemas kini dan dipadam dengan lebih teratur.
+4. Membolehkan rekod janji temu ditambah, dikemas kini dan dipadam dengan lebih teratur
+
+## 1.3 Skop
+1. Sistem ini dibangunkan untuk mengurus janji temu bagi perkhidmatan Terapi Akasia sahaja.
+2. Pelanggan perlu mendaftar dan log masuk sebelum menggunakan sistem.
+3. Sistem ini merekod nama pelanggan, maklumat hubungan dan maklumat janji temu yang diperlukan.
+4. Sistem ini memaparkan senarai janji temu berdasarkan rekod yang disimpan.
+5. Sistem ini menyediakan fungsi untuk menambah, mengemas kini dan memadam rekod janji temu.
+6. Sistem ini mengurus tempahan sesi terapi yang dijalankan secara atas talian sahaja.
+7. Setiap janji temu adalah tertakluk pada slot masa yang tersedia.
