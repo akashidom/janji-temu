@@ -3,11 +3,11 @@
 ## 1.1 Pernyataan Masalah
 Pada masa kini, perkhidmatan terapi boleh dijalankan secara atas talian bagi memudahkan pelanggan mendapatkan sesi terapi tanpa perlu hadir ke lokasi fizikal. Walau bagaimanapun, proses pengurusan janji temu secara manual boleh menimbulkan beberapa masalah.
 
-Antara masalah yang dihadapi ialah proses penetapan janji temu mengambil masa yang lama kerana pelanggan perlu menghubungi pihak Terapi Akasia untuk mengetahui slot yang tersedia. Selain itu, rekod janji temu yang disimpan secara manual boleh menyebabkan maklumat pelanggan sukar dicari dan berisiko hilang.
+Antara masalah yang dihadapi ialah proses penetapan janji temu mengambil masa yang lama kerana pelanggan perlu menghubungi pihak Qasha's Bizzare Therapy untuk mengetahui slot yang tersedia. Selain itu, rekod janji temu yang disimpan secara manual boleh menyebabkan maklumat pelanggan sukar dicari dan berisiko hilang.
 
 Seterusnya, pertindihan masa janji temu boleh berlaku sekiranya jadual sesi terapi tidak dikemas kini dengan teratur. Pelanggan juga mungkin menghadapi kesukaran untuk menyemak semula tarikh dan masa sesi yang telah ditempah.
 
-Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pendaftaran pelanggan, pengurusan janji temu dan paparan senarai janji temu secara lebih sistematik.
+Oleh itu, Sistem Janji Temu Qasha's Bizzare Therapy dicadangkan untuk memudahkan proses pendaftaran pelanggan, pengurusan janji temu dan paparan senarai janji temu secara lebih sistematik.
 
 ## 1.2 Objektif
 1. Merekod maklumat pelanggan yang mendaftar dalam sistem.
@@ -16,7 +16,7 @@ Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pe
 4. Membolehkan rekod janji temu ditambah, dikemas kini dan dipadam dengan lebih teratur
 
 ## 1.3 Skop
-1. Sistem ini dibangunkan untuk mengurus janji temu bagi perkhidmatan Terapi Akasia sahaja.
+1. Sistem ini dibangunkan untuk mengurus janji temu bagi perkhidmatan Qasha's Bizzare Therapy sahaja.
 2. Pelanggan perlu mendaftar dan log masuk sebelum menggunakan sistem.
 3. Sistem ini merekod nama pelanggan, maklumat hubungan dan maklumat janji temu yang diperlukan.
 4. Sistem ini memaparkan senarai janji temu berdasarkan rekod yang disimpan.
@@ -25,7 +25,6 @@ Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pe
 7. Setiap janji temu adalah tertakluk pada slot masa yang tersedia.
 
 ## 1.4 Kumpulan Sasaran
-Sistem ini dibangunkan khas kepada :-
-1. Pelanggan yang berminat
-2. Pkisoterapi yang berkerja
-3. Pentadbir yang mengurus sistem
+Sistem ini dibangunkan untuk dikhaskan kepada:-
+1. Pelanggan perkhidmatan Qasha's Bizzare Therapy sahaja.
+2. Terapis yang mengendalikan dan mentadbir Sistem Janji Temu Qasha's Bizzare Therapy sahaja.
