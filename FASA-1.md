@@ -25,5 +25,7 @@ Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pe
 7. Setiap janji temu adalah tertakluk pada slot masa yang tersedia.
 
 ## 1.4 Kumpulan Sasaran
-1. Pelanggan yang ingin mendapatkan perkhidmatan terapi secara atas talian.
-2. Pentadbir Terapi Akasia yang bertanggungjawab mengurus maklumat pelanggan dan janji temu.
+Sistem ini dibangunkan khas kepada :-
+1. Pelanggan yang berminat
+2. Pkisoterapi yang berkerja
+3. Pentadbir yang mengurus sistem
