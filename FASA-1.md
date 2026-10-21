@@ -23,3 +23,7 @@ Oleh itu, Sistem Janji Temu Terapi Akasia dicadangkan untuk memudahkan proses pe
 5. Sistem ini menyediakan fungsi untuk menambah, mengemas kini dan memadam rekod janji temu.
 6. Sistem ini mengurus tempahan sesi terapi yang dijalankan secara atas talian sahaja.
 7. Setiap janji temu adalah tertakluk pada slot masa yang tersedia.
+
+## 1.4 Kumpulan Sasaran
+1. Pelanggan yang ingin mendapatkan perkhidmatan terapi secara atas talian.
+2. Pentadbir Terapi Akasia yang bertanggungjawab mengurus maklumat pelanggan dan janji temu.
