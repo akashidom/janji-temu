@@ -3,9 +3,9 @@
 ## 1.1 Pernyataan Masalah
 Pada masa kini, perkhidmatan terapi boleh dijalankan secara atas talian bagi memudahkan pelanggan mendapatkan sesi terapi tanpa perlu hadir ke lokasi fizikal. Walau bagaimanapun, proses pengurusan janji temu secara manual boleh menimbulkan beberapa masalah.
 
-Antara masalah yang dihadapi ialah proses penetapan janji temu mengambil masa yang lama kerana pelanggan perlu menghubungi pihak Qasha's Bizzare Therapy untuk mengetahui slot yang tersedia. Selain itu, rekod janji temu yang disimpan secara manual boleh menyebabkan maklumat pelanggan sukar dicari dan berisiko hilang.
-
-Seterusnya, pertindihan masa janji temu boleh berlaku sekiranya jadual sesi terapi tidak dikemas kini dengan teratur. Pelanggan juga mungkin menghadapi kesukaran untuk menyemak semula tarikh dan masa sesi yang telah ditempah.
+1. Antara masalah yang dihadapi ialah proses penetapan janji temu mengambil masa yang lama kerana pelanggan perlu menghubungi pihak Qasha's Bizzare Therapy untuk mengetahui slot yang tersedia. Selain itu, rekod janji temu yang disimpan secara manual boleh menyebabkan maklumat pelanggan sukar dicari dan berisiko hilang.
+2. Seterusnya, pertindihan masa janji temu boleh berlaku sekiranya jadual sesi terapi tidak dikemas kini dengan teratur. Pelanggan juga mungkin menghadapi kesukaran untuk menyemak semula tarikh dan masa sesi yang telah ditempah.
+3. Rekod fail fizikal mudah hilang apabila disimpan secara cuai. Risiko ini tiada apabila disimpan pada server.
 
 Oleh itu, Sistem Janji Temu Qasha's Bizzare Therapy dicadangkan untuk memudahkan proses pendaftaran pelanggan, pengurusan janji temu dan paparan senarai janji temu secara lebih sistematik.
 
@@ -13,9 +13,10 @@ Oleh itu, Sistem Janji Temu Qasha's Bizzare Therapy dicadangkan untuk memudahkan
 1. Merekod maklumat pelanggan yang mendaftar dalam sistem.
 2. Merekod maklumat janji temu pelanggan yang merangkumi tarikh, masa dan jenis sesi terapi.
 3. Memaparkan senarai janji temu supaya pelanggan dapat menyemak maklumat sesi yang telah ditempah.
-4. Membolehkan rekod janji temu ditambah, dikemas kini dan dipadam dengan lebih teratur
+4. Membolehkan rekod janji temu ditambah, dikemas kini dan dipadam dengan lebih teratur.
+5. Mencetak laporan yang ditempah oleh pelanggan.
 
-## 1.3 Skop
+## 1.3 Skopsss
 1. Sistem ini dibangunkan untuk mengurus janji temu bagi perkhidmatan Qasha's Bizzare Therapy sahaja.
 2. Pelanggan perlu mendaftar dan log masuk sebelum menggunakan sistem.
 3. Sistem ini merekod nama pelanggan, maklumat hubungan dan maklumat janji temu yang diperlukan.
